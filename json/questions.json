@@ -1,0 +1,100 @@
+[
+    {
+        "question": "Who invented JavaScript?",
+        "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Which one of these is a JavaScript package manager?",
+        "answers": {
+            "a": "Node.js",
+            "b": "TypeScript",
+            "c": "npm"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Which tool can you use to ensure code quality?",
+        "answers": {
+            "a": "Angular",
+            "b": "jQuery",
+            "c": "RequireJS",
+            "d": "ESLint"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What is the return type of the hashCode() method in the Object class?",
+        "answers": {
+            "a": "Object",
+            "b": "int",
+            "c": "long",
+            "d": "void"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Which method of the Class.class is used to determine the name of a class represented by the class object as a String?",
+        "answers": {
+            "a": "getClass()",
+            "b": "intern()",
+            "c": "getName()",
+            "d": "toString()"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Which of the following is true about the anonymous inner class?",
+        "answers": {
+            "a": "It has only methods",
+            "b": "Objects can't be created",
+            "c": "It has a fixed class name",
+            "d": "It has no class name"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What do you mean by nameless objects?",
+        "answers": {
+            "a": "An object created by using the new keyword.",
+            "b": "An object of a superclass created in the subclass.",
+            "c": "An object without having any name but having a reference.",
+            "d": "An object that has no reference."
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Which package contains the Random class?",
+        "answers": {
+            "a": "java.util package",
+            "b": "java.lang package",
+            "c": "java.awt package",
+            "d": "java.io package"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which of the following is an immediate subclass of the Panel class?",
+        "answers": {
+            "a": "Applet class",
+            "b": "Window class",
+            "c": "Frame class",
+            "d": "Dialog class"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Which option is false about the final keyword?",
+        "answers": {
+            "a": "A final method cannot be overridden in its subclasses.",
+            "b": "A final class cannot be extended.",
+            "c": "A final class cannot extend other classes.",
+            "d": "A final method can be inherited."
+        },
+        "correctAnswer": "c"
+    }
+]
